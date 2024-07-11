@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="red">#FF0000</color>
+    <color name="white">#F9EAE1</color>
+    <color name="green_oil">#009688</color>
+    <color name="gray">#676868</color>
+    <color name="green">#4CAF50</color>
+    <color name="magenta">#A16DAA</color>
+    <color name="light_green">#23C1B2</color>
+    <color name="light_blue">#806EE1D6</color>
+    <color name="madder">#9E0031</color>
+    <color name="byzantium">#770058</color>
+</resources>
