@@ -44,10 +44,6 @@ https://github.com/josanpaier/WriteCode-Curso-Introducao-Desenvolvimento-Android
 
 <img src="https://github.com/josanpaier/WriteCode-Curso-Introducao-Desenvolvimento-Android/assets/131397521/e2038c7c-155b-49a8-9d25-f7aa5a356971" width="300px"/>
 
-### Código Fonte
-
-O código fonte do aplicativo está disponível no repositório do GitHub: [[https://github.com/josanpaier/WriteCode](https://github.com/josanpaier/WriteCode-Curso-Introducao-Desenvolvimento-Android/blob/main/MenuApp.rar)]
-
 ### Conclusão
 
 O projeto WriteCode foi uma excelente oportunidade para aplicar os conhecimentos adquiridos durante o curso de Introdução ao Desenvolvimento Android, resolvendo um problema real e inovando o atendimento do restaurante. O aplicativo desenvolvido é um exemplo de como a tecnologia pode otimizar processos e melhorar a experiência dos clientes.
